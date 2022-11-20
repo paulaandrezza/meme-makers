@@ -7,7 +7,7 @@ Evento exclusivo e gratuito, promovido pela DIO para ensino de tecnologias WEB.
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="-biblioteca">Bibliotecas</a>
+  <a href="-bibliotecas">Bibliotecas</a>
 </p>
 
 <br>
@@ -27,6 +27,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A máquina de memes é um projeto que permite a criação de memes a partir de imagens pré-definidas ou uploads feito pelo usuário.
 
-## 📚 Biblioteca
+## 📚 Bibliotecas
 
 Nesse projeto foi utilizado a biblioteca html2canvas disponível no [link](https://html2canvas.hertzen.com/) para realizar o print da tela para download.
